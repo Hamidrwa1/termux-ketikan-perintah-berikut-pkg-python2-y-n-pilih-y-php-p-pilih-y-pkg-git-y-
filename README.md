@@ -1,0 +1,1 @@
+# termux-ketikan-perintah-berikut-pkg-python2-y-n-pilih-y-php-p-pilih-y-pkg-git-y-
